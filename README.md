@@ -1,0 +1,1 @@
+#Multithreading </br> Basics of multithreading, I learn about synchronization (mutex) and about threads, application test handling of counting integral with pool of threads and without (in convencional way)
